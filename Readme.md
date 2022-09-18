@@ -6,4 +6,4 @@
 
 ## Listas
 
-- [Lista 1](/.gitgnore)
+- [Lista 1](/.gitgnore) ###### - Sistema de Controle de Versão
