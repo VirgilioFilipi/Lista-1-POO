@@ -6,4 +6,4 @@
 
 ## Listas
 
-- [Lista 1](docs/.gitgnore)
+- [Lista 1](/.gitgnore)
