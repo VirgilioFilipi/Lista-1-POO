@@ -15,9 +15,8 @@ public class Ex_Media {
         MP = ((P1*2) + (P2*4))/6;
         MG = (Double) Math.exp((Math.log(L1*L2*L3*L4*L5))/5);              
         CF = (MP*0.9) + (MG*0.1);
-        System.out.println("*****"+MG);
-
-        if (CF > 6){
+     
+        if (CF >= 6){
             System.out.println("Aprovado, media: "+ CF);
         }
         else{
